@@ -16,10 +16,10 @@ Make sure to install the following dependencies to run the notebook:
 
 
 # Required Libraries:
-spacy
-scispacy
-en_core_sci_sm (Spacy model for biomedical text)
-en_ner_bc5cdr_md (Pretrained NER model for disease recognition)
+- spacy
+- scispacy
+- en_core_sci_sm (Spacy model for biomedical text)
+- en_ner_bc5cdr_md (Pretrained NER model for disease recognition)
 
 
 # How to Run
